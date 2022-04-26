@@ -2203,6 +2203,10 @@
   .text-sm-center {
     text-align: center !important;
   }
+
+  .w-sm-40 {
+    width: 40% !important;
+  }
 }
 @media (min-width: 768px) {
   .float-md-start {
