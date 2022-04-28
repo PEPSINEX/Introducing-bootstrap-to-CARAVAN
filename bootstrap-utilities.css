@@ -531,10 +531,6 @@
   width: 75% !important;
 }
 
-.w-90 {
-  width: 90% !important;
-}
-
 .w-100 {
   width: 100% !important;
 }
@@ -2202,10 +2198,6 @@
 
   .text-sm-center {
     text-align: center !important;
-  }
-
-  .w-sm-40 {
-    width: 40% !important;
   }
 }
 @media (min-width: 768px) {
